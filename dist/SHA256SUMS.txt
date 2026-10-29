@@ -1,0 +1,2 @@
+49ceb1e2b5b4c5501e3afce277dea6362689a0830591d2aaad552c23802b5923  SatelliteBandPreview-source-v1.0.zip
+8e7f63954c77cc800b117729c132084c67b011f1f2486acf35e970e7952dc137  SatelliteBandPreview-Windows-x64-Qt6.8.3-v1.0.zip

@@ -1,0 +1,11 @@
+高分卫星影像 RGB 快视工具 Windows 运行包
+
+1. 解压完整压缩包。
+2. 运行 SatelliteBandPreview.exe。
+3. 打开本地 PNG/JPG/JPEG；或用内置合成示意图体验。
+
+重要：示意图不是卫星照片。输入仅是 PNG/JPEG 8 位 RGB；
+本工具不支持真实多光谱波段、GeoTIFF/JP2 地理参考或定标。
+本运行包面向 Windows x64 + MSVC Runtime；Qt 及第三方组件的
+重新分发需遵守各组件的适用许可证与 notice 要求。
+学习简历时应如实描述本人贡献，不得将共享代码冒充独立原创。
